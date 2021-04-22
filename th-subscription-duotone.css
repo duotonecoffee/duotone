@@ -270,17 +270,16 @@
 .thsb_pp_order_fulfilled .thsb_pp_order_fulfilled_ul .thsb_pp_order_fulfilled_col span{font-size:14px; line-height:normal; margin:0; padding:0;}
 .thsb_pp_order_fulfilled .thsb_pp_order_fulfilled_ul .thsb_pp_order_fulfilled_head span{font-weight:700;}
 
-.th_subscription_radio_section{width:100%; display:inline-block; margin:15px 0;}
+.th_subscription_radio_section{width:100%; display:inline-block;}
 .th_subscription_radio_section input[type='radio']{display:none !important;}
 .th_subscription_radio_section .th_subscription_section_title{width:100%; display:inline-block; font-size:18px; line-height:22px; margin:0 0 5px 0; padding:0;}
-.th_subscription_radio_section .th_subscription_radio_section_outer{margin:0; padding:15px; border:1px solid #eee;}
 .th_subscription_radio_section .th_subscription_radio_plans{display:-webkit-box; display:-ms-flexbox; display:flex; -ms-flex-wrap:wrap; flex-wrap:wrap; margin:0 -10px; padding:0;}
 .th_subscription_radio_section .th_subscription_radio_fieldset{-ms-flex-preferred-size:0; flex-basis:0; -webkit-box-flex:1; -ms-flex-positive:1; flex-grow:1; max-width:100%; padding:0 10px; margin:0;}
 .th_subscription_radio_section .th_subscription_radio_label_outer{width:100%; height:100%; display:flex; text-align:center;}
 .th_subscription_radio_section .th_subscription_radio_label_outer label{width:100%; height:100%; display:flex; align-items:center; justify-content:center; margin:0; font-size:14px; line-height:normal; padding:10px 15px; border:1px solid #eee;}
 .th_subscription_radio_section .th_subscription_radio_label_outer input:checked + label{color:#006e52; border-color:#006e52;}
 
-.th_subscription_radio_section .th_subscription_radio_interval{width:100%; margin:15px 0 0; padding:0; line-height:0;}
+.th_subscription_radio_section .th_subscription_radio_interval{width:100%; padding:0; line-height:0;}
 .th_subscription_radio_section .th_subscription_radio_spg_plan_label{width:100%; display:inline-block; margin:0 0 10px; padding:0;}
 .th_subscription_radio_section .th_subscription_radio_spg_plan_label_title{width:100%; float:left; margin:0; padding:0; font-size:14px; line-height:normal;}
 .th_subscription_radio_section .th_subscription_radio_spg_plan_detail{width:100%; height:100%; display:flex; margin:0; padding:0;}
