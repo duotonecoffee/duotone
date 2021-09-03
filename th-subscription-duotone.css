@@ -9,7 +9,7 @@
 .th_subscription_fieldset .th_subscription_group_label .th_subscription_fieldset_name{font-weight:600;}
 .th_subscription_fieldset .th_subscription_spg_plan{padding:15px 20px 0;}
 .th_subscription_fieldset .th_subscription_spg_plan .th_subscription_spg_plan_title{padding:0 0 10px !important; margin:0 !important; line-height:normal !important;}
-.th_subscription_fieldset .th_subscription_spg_plan .th_subscription_spg_plan_select{width:100%; min-height:inherit !important;}
+.th_subscription_fieldset .th_subscription_spg_plan .th_subscription_spg_plan_select{margin-top: 20px; padding: 12px 25px; border-style: solid; border-width: 1px; border-color: #ff7043; border-radius: 50px; color: #ff7043; font-weight: 300; !important;}
 
 .thsb_cp_section{width:100%; display:inline-block; padding:30px 15px; box-sizing:border-box;}
 .thsb_cp_section div, .thsb_cp_section p, .thsb_cp_section span, .thsb_cp_section a, .thsb_cp_section table, .thsb_cp_section thead, .thsb_cp_section tbody, .thsb_cp_section th, .thsb_cp_section td, .thsb_cp_section tr, .thsb_cp_section strong, .thsb_cp_section h1, .thsb_cp_section h2, .thsb_cp_section h3{box-sizing:border-box;}
