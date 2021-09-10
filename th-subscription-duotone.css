@@ -294,7 +294,7 @@
 .th_subscription_radio_section .th_subscription_radio_spg_plan_price_delivery{flex:0 0 auto; max-width:none; margin:0; padding:0 0 0 10px; line: height 1.1em; font-weight: 200;}
 .th_subscription_radio_section .th_subscription_radio_spg_plan_price_delivery em{width:auto; float:left; font-size:14px; line-height:20px; font-style:normal !important;}
 .th_subscription_radio_section .th_subscription_radio_spg_plan_price_delivery .th_subscription_radio_spg_plan_separate{padding:0 5px;}
-.th_subscription_radio_section .th_subscription_radio_spg_plan_detail input:checked + label{color: #fff}
+.th_subscription_radio_section .th_subscription_radio_spg_plan_detail input:checked + label{color: #fff;}
 
 input.th_subscription_fieldset_radio[type=radio] {-webkit-appearance:radio;}
 
