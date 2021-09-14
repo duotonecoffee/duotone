@@ -279,7 +279,7 @@
 .th_subscription_radio_section .th_subscription_radio_label_outer label{width:100%; height:100%; display:flex; align-items:center; justify-content:center; margin:0; font-size:14px; line-height:normal; padding:10px 15px; border:1px solid #eee;}
 .th_subscription_radio_section .th_subscription_radio_label_outer input:checked + label{}
 
-.th_subscription_radio_section .th_subscription_radio_interval{width:100%; padding:0; line-height:0; color: #fff;}
+.th_subscription_radio_section .th_subscription_radio_interval{width:100%; padding:0; line-height:0; color: #1e1e1e;}
 .th_subscription_radio_section .th_subscription_radio_spg_plan_label{width:100%; display:inline-block; margin:0 0 10px; padding:0;}
 .th_subscription_radio_section .th_subscription_radio_spg_plan_label_title{width:100%; float:left; margin:0; padding:0; font-size:14px; line-height:normal;}
 .th_subscription_radio_section .th_subscription_radio_spg_plan_detail{width:100%; height:100%; display:flex; margin:0; padding:0;}
